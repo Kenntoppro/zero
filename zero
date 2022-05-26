@@ -1,0 +1,21 @@
+tir = str(input('Введите букву: '))
+ri = 'a'
+rq = 'e'
+rw = 'u'
+re = 'i'
+rr = 'o'
+rt = 'y'
+if tir == ri:
+  print('Гласная ')
+elif tir == rq:
+  print('Гласная ')
+elif tir == rw:
+  print('Гласная ')
+elif tir == re:
+  print('Гласная ')
+elif tir == rr:
+  print('Гласная ')
+elif tir == rt:
+  print('Может быть и гласной, и согласной ')
+else:
+  print('Согласная ')
